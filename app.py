@@ -10,7 +10,7 @@ import numpy as np
 import os
 
 
-genai.configure(api_key='AIzaSyAD5N6pHi4NSu8oZSUAMnovhunmo1ylDYE') 
+genai.configure(api_key='your_api_key') 
 
 def ext_text(pdf_name):
     text = ""
